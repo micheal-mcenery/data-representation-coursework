@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Library>
+    <Book category="Technical">
+        <ISBN>ISBN_1</ISBN>
+        <Title>Book_1</Title>
+        <Author>Author_1</Author>
+    </Book>
+    <Book category="Technical">
+        <ISBN>ISBN_2</ISBN>
+        <Title>Book_2</Title>
+        <Author>Author_2</Author>
+    </Book>
+    <Book category="Cookery">
+        <ISBN>ISBN_3</ISBN>
+        <Title>Book_3</Title>
+        <Author>Author_3</Author>
+    </Book>
+    <Book category="Cookery">
+        <ISBN>ISBN_4</ISBN>
+        <Title>Book_4</Title>
+        <Author>Author_4</Author>
+    </Book>
+</Library>
